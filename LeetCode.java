@@ -1,5 +1,5 @@
 import java.util.*;
-public class LeetCode {//implementation of Linked List
+public class LeetCode {
 static class Node{
     int data;
     Node next;
